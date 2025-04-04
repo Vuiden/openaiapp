@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("http://googleusercontent.com/image_generation_content/1", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
